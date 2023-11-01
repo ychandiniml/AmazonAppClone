@@ -1,15 +1,17 @@
 import React from 'react';
-import { View } from 'react-native';
+import { View,StatusBar } from 'react-native';
 import HomeScreen from './src/screens/HomeScreen';
 
 
-// import { Container } from './styles';
 
 const App = () => {
-  return 
-  <View>
-    <HomeScreen />
-  </View>;
+  return (
+    <View>
+      <StatusBar backgroundColor='#9ee4d4' barStyle='dark-content' />
+      <HomeScreen />
+    </View>
+  );
+  
 }
 
 export default App;

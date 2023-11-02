@@ -7,7 +7,7 @@ import HomeScreen from './src/screens/HomeScreen';
 const App = () => {
   return (
     <View>
-      <StatusBar backgroundColor='#9ee4d4' barStyle='dark-content' />
+      <StatusBar backgroundColor='#9ee4d4' barStyle = 'dark-content' />
       <HomeScreen />
     </View>
   );

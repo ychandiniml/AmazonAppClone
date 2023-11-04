@@ -1,6 +1,6 @@
 AmazonAppClone using ReactNative
 
-<img width="349" alt="image" src="https://github.com/ychandiniml/AmazonAppClone/assets/104729699/fa89320c-9aae-4d40-a9bd-42807201547e">
+<img width="355" alt="image" src="https://github.com/ychandiniml/AmazonAppClone/assets/104729699/31d11e44-b790-41a9-a343-7a89a2638b8c">
 
 
 
